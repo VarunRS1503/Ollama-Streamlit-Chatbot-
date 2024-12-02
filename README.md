@@ -61,9 +61,6 @@ streamlit run Ollama_app.py
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-[Specify your license here]
-
 ## Acknowledgments
 - Ollama for providing open-source language models
 - Streamlit for the interactive web application framework
