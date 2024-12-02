@@ -63,8 +63,8 @@ Contributions are welcome! Got an awesome idea? Submit a Pull Request and let's 
 
 ## 🙌 Acknowledgments
 A big shoutout to:
-- 🌐 Ollama for powering open-source language models
-- 🖥️ Streamlit for the amazing web app framework
+- 🌐 [Ollama](https://github.com/ollama/ollama) for powering open-source language models
+- 🖥️ [Streamlit](https://github.com/streamlit/streamlit) for the amazing web app framework
 
 ## 📜 License
 Apache 2.0 - Unleash your creativity, responsibly! 🔓
